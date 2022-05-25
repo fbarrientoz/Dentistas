@@ -20,7 +20,7 @@ namespace Dentistas.Controllers
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult Busqueda()
         {
             ViewBag.Message = "Your contact page.";
 

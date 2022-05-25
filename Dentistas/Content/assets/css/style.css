@@ -6483,3 +6483,18 @@ ul.add-amenities li {
 p#invoice-info {
     text-align: right;
 }
+
+.wow-form a {
+    position: absolute;
+    top: 4px;
+    bottom: 4px;
+    right: 4px;
+    padding: 20px 20px;
+    outline: 0;
+    border-radius: 6px;
+    box-shadow: 0 20px 50px rgb(0 0 0 / 4%);
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: .5px;
+    cursor: pointer;
+}

@@ -1,7 +1,21 @@
 ﻿@{
-    ViewBag.Title = "About";
+    Layout = "~/Views/Shared/_LayoutWeb.cshtml";
 }
-<h2>@ViewBag.Title.</h2>
-<h3>@ViewBag.Message</h3>
 
-<p>Use this area to provide additional information.</p>
+<div class="main-banner" style="background-image: url(https://enbatadental.com/wp-content/uploads/2021/05/img2.jpg);">
+    <div class="container">
+        <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
+
+            <div class="caption text-center cl-white">
+                <h2>La sonrisa de un rey en la web</h2>
+                <p>Busca a tu especialista</p>
+            </div>
+
+            <form class="wow-form">
+                <input type="text" placeholder="Buscar...">
+                <button type="submit" class="btn btn-wow theme-btn" name="submit" value="Search"> Buscar </button>
+            </form>
+
+        </div>
+    </div>
+</div>
