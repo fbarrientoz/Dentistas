@@ -6,7 +6,7 @@
     <edmx:Diagrams>
       <Diagram DiagramId="561f692a787b4828a2a2f870c762eb82" Name="Diagram1">
         <EntityTypeShape EntityType="DentalCloudModel.Odontologos" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="DentalCloudModel.C__MigrationHistory" Width="1.5" PointX="0.75" PointY="4.75" />
+        <EntityTypeShape EntityType="DentalCloudModel.C__MigrationHistory" Width="1.5" PointX="1.75" PointY="6.625" />
         <EntityTypeShape EntityType="DentalCloudModel.AspNetRoles" Width="1.5" PointX="3.75" PointY="2.5" />
         <EntityTypeShape EntityType="DentalCloudModel.AspNetUserClaims" Width="1.5" PointX="8.25" PointY="3.625" />
         <EntityTypeShape EntityType="DentalCloudModel.AspNetUserLogins" Width="1.5" PointX="8.25" PointY="1" />
