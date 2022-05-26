@@ -99,10 +99,10 @@
 
                 </ul>
 
-                <ul class="nav navbar-nav navbar-right">
-                    <li class="br-right"><a href="@Url.Action("Login","Account")"><i class="login-icon ti-user"></i>Login</a></li>
-                    <li class="sign-up"><a class="btn-signup red-btn" href="@Url.Action("Register","Account")">Registrate</a></li>
-                </ul>
+                <div class="navbar-collapse collapse">
+
+                    @Html.Partial("_LoginPartial")
+                </div>
 
             </div>
             <!-- /.navbar-collapse -->
